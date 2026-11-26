@@ -76,10 +76,10 @@ const CONFIG = {
       options: ["Nothing, it's a normal day", "Free pizza day 🍕", "It's OUR anniversary 💕", "Laundry day 🧺"],
       answer: 2,
       wrongMessages: [
-        "Haai wena! 😤 You meant to press “It's OUR anniversary”.",
+        "Haai wena mahn! 😤 You meant to press “It's OUR anniversary”.",
         "Nope! Think harder, Melva Bear 🐻",
       ],
-      rightMessage: "Yesss! Happy anniversary, my love 🥂",
+      rightMessage: "Yesss! Happy anniversary, my love ,my barchen 🥂",
     },
     {
       question: "Third clue: who loves you the most in the whole wide world?",
@@ -148,7 +148,7 @@ const CONFIG = {
       src: "media/photo1.jpg",                       // ← PLACEHOLDER
       date: "The day we met",                        // ← PLACEHOLDER
       title: "The first time I saw you",             // ← PLACEHOLDER
-      text: "PLACEHOLDER — Write about how you felt the first time you met her. Where were you? What was she wearing? What did you think?\n\nAdd a second paragraph like this if you want.",
+      text: "I remember you wearing a white vest ,and with beautiful edges on your hair .You surprised me that day ,I felt so happy ,I remember it as vividly as yesterday .I felt like hugging you and never letting go❤️.\nPLACEHOLDER — Write about how you felt the first time you met her. Where were you? What was she wearing? What did you think?\n\nAdd a second paragraph like this if you want.",
     },
     {
       type: "image",
