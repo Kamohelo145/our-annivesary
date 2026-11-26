@@ -148,16 +148,22 @@ const CONFIG = {
       src: "media/photo1.jpg",                       // ← PLACEHOLDER
       date: "The day we met",                        // ← PLACEHOLDER
       title: "The first time I saw you",             // ← PLACEHOLDER
-      text: "I remember you wearing a white vest ,and with beautiful edges on your hair .You surprised me that day ,I felt so happy ,I remember it as vividly as yesterday .I felt like hugging you and never letting go❤️.\nPLACEHOLDER — Write about how you felt the first time you met her. Where were you? What was she wearing? What did you think?\n\nAdd a second paragraph like this if you want.",
+      text: "I remember you wearing a white vest ,and with beautiful edges on your hair .You surprised me that day ,I felt so happy ,I remember it as vividly as yesterday .I felt like hugging you and never letting go❤️",
     },
     {
       type: "image",
       src: "media/photo2.jpg",                       // ← PLACEHOLDER
-      date: "Our first date",                        // ← PLACEHOLDER
+      date: "Our first interactions",                        // ← PLACEHOLDER
       title: "Nervous but happy",                    // ← PLACEHOLDER
-      text: "PLACEHOLDER — What happened on your first date? Any funny moment?",
+      text: "I remember ,us being together ,cooking ,laughing in bed ,just speaking our hearts out ,you truly are one of a kind.Wa hopola ke o loha hlooho😂😂😂❤️ ,from that all the way to us shopping together ,we have shared so many beautiful moments together ,and many more are still to come my baby❤️ ,No single picture can capture all of that ,so I put (my😂)our favourite ,to just remind you of the love I have for you",
     },
     {
+      type: "video",
+      src: "media/video1.mp4",                       // ← PLACEHOLDER
+      date: "That one weekend",                      // ← PLACEHOLDER
+      title: "When we couldn't stop laughing",       // ← PLACEHOLDER
+      text: "PLACEHOLDER — Describe this video. What was going on, and why does it make you smile?",
+    },{
       type: "video",
       src: "media/video1.mp4",                       // ← PLACEHOLDER
       date: "That one weekend",                      // ← PLACEHOLDER
