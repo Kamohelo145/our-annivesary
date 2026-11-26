@@ -160,36 +160,36 @@ const CONFIG = {
     {
       type: "video",
       src: "media/video1.mp4",                       // ← PLACEHOLDER
-      date: "That one weekend",                      // ← PLACEHOLDER
-      title: "When we couldn't stop laughing",       // ← PLACEHOLDER
-      text: "PLACEHOLDER — Describe this video. What was going on, and why does it make you smile?",
+      date: "Ya pele",                      // ← PLACEHOLDER
+      title: "First Video you sent me",       // ← PLACEHOLDER
+      text:  "I just remember seeing such an amazing woman ,and I just couldnt wait to see you❤️Love you so much❤️‍🔥",
     },{
       type: "video",
-      src: "media/video1.mp4",                       // ← PLACEHOLDER
-      date: "That one weekend",                      // ← PLACEHOLDER
-      title: "When we couldn't stop laughing",       // ← PLACEHOLDER
-      text: "PLACEHOLDER — Describe this video. What was going on, and why does it make you smile?",
+      src: "media/video2.mp4",                       // ← PLACEHOLDER
+      date: "Birthday",                      // ← PLACEHOLDER
+      title: "our first birthday together",       // ← PLACEHOLDER
+      text: "Ke ntse ke hopola ,in your lovely dresses Mrs Mosikili ,I was so happy to see you so excited ,and happy❤️Love you more than words can describe",
     },
     {
       type: "image",
       src: "media/photo3.jpg",                       // ← PLACEHOLDER
-      date: "Somewhere special",                     // ← PLACEHOLDER
-      title: "Just us",                              // ← PLACEHOLDER
-      text: "PLACEHOLDER — A place you went together and what that day meant to you.",
+      date: "special pictures",                     // ← PLACEHOLDER
+      title: "My baby",                              // ← PLACEHOLDER
+      text: "I still look at and remember the first pictures you sent me ,I love you so much .Ke hopola senepe sa chrismas❤️,O ntshitse figure ngwana😂😂 ,and that one you took with your old phone❤️,I look at them each time I miss you ke le cpt🥺",
     },
     {
       type: "video",
-      src: "media/video2.mp4",                       // ← PLACEHOLDER
+      src: "media/video3.mp4",                       // ← PLACEHOLDER
       date: "A random Tuesday",                      // ← PLACEHOLDER
       title: "The little moments",                   // ← PLACEHOLDER
-      text: "PLACEHOLDER — Sometimes the ordinary days are the best ones. Tell her about this one.",
+      text: "Sometimes the ordinary days are the best ones.I really do look back and remember those days ,we just having fun ,sharing laughs❤️,just enjoying our little moments ,those have went a long way into my heart baby😭❤️🥰,even on days where we were just lost😂😂😂",
     },
     {
       type: "image",
       src: "media/photo4.jpg",                       // ← PLACEHOLDER
       date: "Today",                                 // ← PLACEHOLDER
       title: "And this is just the beginning",       // ← PLACEHOLDER
-      text: "PLACEHOLDER — Where you are now and what you're looking forward to together.",
+      text: "we have been together for a year now ,and we have many more to come❤️🥰,I love you my precious queen❤️",
     },
   ],
 
