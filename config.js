@@ -199,9 +199,9 @@ const CONFIG = {
      ------------------------------------------------------------------ */
   letterTitle: "To my Neo yaka entle,",
   letterParagraphs: [
-    "PLACEHOLDER — Write your letter to her here. This is the last thing she reads, so make it count.",
-    "PLACEHOLDER — Second paragraph. What she means to you, what you're grateful for.",
-    "PLACEHOLDER — Third paragraph. What you promise her for the next year (and the ones after that).",
+    "❤️My baby as we reach this milestone I want us to look at how far we have come ,and acknowledge all the hardships we have faced but we cam out on top regardless ,we are staying together forever.My love for you grows each and every single day❤️.I love you so so much.",
+    "❤️I appreaciate all your efforts that you have done for me ,and all the support that you ahve shown me ,you have always been there even during days when I am  ohkay ,with tears flooding my eyes ,but today we celebrate because we have come so far ,and we still have so far to go❤️🥰.I just melt inside everytime I think of you .You are funny ,beautiful and amazing ,so thoughful and considerate ,and my future wife who is an entreprenuer at heart .All that you yearn for will come because you work hard for it ,and I will be right here to support you every step of the way❤️",
+    "In the coming years I promise to improve ,and be there more for you ,I want to see when you are not ohkay without you saying ,I want to be able to fully focus on you without past bargage dragging me down ,I want to be your pillar of support  as we tackle more challenges❤️.Ultimately I want to marry you ,ke oetse MaMosikili❤️💍,dikgomo dikene mme ho be monate.I want to learn how to love you and treat you better like the princess you are❤️.Ke ya o rata Siphosihle ,you leave me speechless each time ,such a wonderful being ,I am truly blessed to have you in my life and I appreaciate you a lot❤️‍🔥",
   ],
   letterSignoff: "Forever yours,",
   letterSignature: "Kamza 💌",
