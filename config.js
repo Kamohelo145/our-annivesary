@@ -25,7 +25,7 @@ const CONFIG = {
 
   // The day you two officially started (format: YYYY-MM-DD).
   // Used for the live "time together" counter.
-  startDate: "2025-11-25",          // ← PLACEHOLDER: change to your real date
+  startDate: "2025-12-25",          // ← PLACEHOLDER: change to your real date
 
   // Text in the browser tab
   pageTitle: "A little bird has a message for you 🐦",
@@ -36,7 +36,7 @@ const CONFIG = {
      MP3 works everywhere. The song starts when she reaches Dreamland.
      ------------------------------------------------------------------ */
   song: "media/song.mp3",           // ← PLACEHOLDER: replace media/song.mp3 with your song
-  songTitle: "Our Song",            // ← shown on the little music button
+  songTitle: "O ratwa ke nna",            // ← shown on the little music button
 
   /* ------------------------------------------------------------------
      3. THE LITTLE BIRD (first screen)
